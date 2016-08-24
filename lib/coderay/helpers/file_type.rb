@@ -119,6 +119,7 @@ module CodeRay
       'rpdf'      => :ruby,
       'ru'        => :ruby,  # config.ru
       'rxml'      => :ruby,
+      'sas'       => :sas,
       'sass'      => :sass,
       'sql'       => :sql,
       'taskpaper' => :taskpaper,
